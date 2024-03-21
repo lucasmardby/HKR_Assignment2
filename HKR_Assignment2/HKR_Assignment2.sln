@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HKR_Assignment2", "HKR_Assignment2.csproj", "{13B784F6-AD69-4A21-9785-B9ADC76F7A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B784F6-AD69-4A21-9785-B9ADC76F7A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B784F6-AD69-4A21-9785-B9ADC76F7A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B784F6-AD69-4A21-9785-B9ADC76F7A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B784F6-AD69-4A21-9785-B9ADC76F7A55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12F9AE22-B760-4F7F-8E98-BB086F016594}
+	EndGlobalSection
+EndGlobal
