@@ -1,0 +1,15 @@
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\bin\Debug\net8.0\HKR_Assignment2.exe
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\bin\Debug\net8.0\HKR_Assignment2.deps.json
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\bin\Debug\net8.0\HKR_Assignment2.runtimeconfig.json
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\bin\Debug\net8.0\HKR_Assignment2.dll
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\bin\Debug\net8.0\HKR_Assignment2.pdb
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\HKR_Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\HKR_Assignment2.AssemblyInfoInputs.cache
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\HKR_Assignment2.AssemblyInfo.cs
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\HKR_Assignment2.csproj.CoreCompileInputs.cache
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\HKR_Assignment2.sourcelink.json
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\HKR_Assignment2.dll
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\refint\HKR_Assignment2.dll
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\HKR_Assignment2.pdb
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\HKR_Assignment2.genruntimeconfig.cache
+E:\Code\HKR Assignment2\HKR_Assignment2\HKR_Assignment2\obj\Debug\net8.0\ref\HKR_Assignment2.dll
